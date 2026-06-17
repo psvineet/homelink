@@ -152,7 +152,6 @@ homelink/
 - **Device auth**: pairing required before any command is accepted
 - **Telegram relay**: sees only ciphertext, no plaintext ever leaves your device
 
-See [`docs/SECURITY.md`](docs/SECURITY.md) for full threat model.
 
 ---
 
